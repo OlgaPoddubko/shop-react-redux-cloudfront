@@ -33,7 +33,7 @@ export default function Header() {
             underline="none"
             to="/"
           >
-            My Second Store!
+            GT Car Store
           </Link>
         </Typography>
 
